@@ -1,0 +1,25 @@
+body{
+    background-image: url(./Generic1536x1040pxKL.png);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.ab{
+    background-color: antiquewhite;
+    position: fixed;
+}
+.cd{
+    border: 2px solid orange;
+    position:absolute ;
+    top: 68px;
+    
+}
+.fg{
+    background-color: pink;
+    position: relative;
+    top: 125px;
+   }
+   img{
+    position: relative;
+    top: 120px;
+   }

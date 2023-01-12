@@ -1,0 +1,17 @@
+.box{
+    background-color: antiquewhite;
+    border: 3px dotted orange;
+    box-shadow: 6px 8px 6px olive;
+    border-radius: 10px;
+    margin: 10px;
+}
+.box2{
+    background-color: bisque;
+    border: 2px solid blue;
+}
+.box2>ul>li{
+    list-style: none;
+}
+.main{
+    display: flex;
+}
